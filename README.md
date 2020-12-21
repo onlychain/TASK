@@ -7,17 +7,16 @@ Requirements:
 * 4.Equipped with basic functions of wallet.
 * 5.Equipped with functions like staking, voting, etc.
 * 6.The excellent and user-friendly interface will be given preference. 
-## Progress:
+### Progress:
 ### This task is claimed by the community technical team with ongoing maintenance and updates.
 
-
-
+### ——————————————————————————————————————————————————————————————————————————————————————————————
 
 # Task 2:
 ## Development of OC 2.0 Explorer (Bounty: 10000 ONLY)
 * 1.Equipped with nearly all basic functions of ETH Explorer 
 * 2.The excellent user interface will be given preference.
-## Progress:
+### Progress:
 ### This task is claimed by the community technical team, still in the planning phase.
 
 
@@ -31,7 +30,7 @@ Requirements:
 * 3.Support the smart association and highlighting of code for IDE
 * 4.Support “one-click installation” for IDE
 * 5.The excellent user interface will be given preference.
-## Progress:
+### Progress:
 ### This task is claimed by the community technical team and expected to be ready on Dec. 30th, 2020.
 
 
@@ -45,7 +44,7 @@ Requirements:
 * 4.Security audit of smart contract virtual machine
 * 5.Security of account and transaction models
 * 6.Security audit of consensus mechanism
-## Progress:
+### Progress:
 ### Still recruiting. Application deadline: Dec. 30th, 2020.
 
 
