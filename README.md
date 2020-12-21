@@ -19,8 +19,7 @@ Requirements:
 ### Progress:
 ### This task is claimed by the community technical team, still in the planning phase.
 
-
-
+****
 
 # Task 3:
 ## OC 2.0 contract developer tool (IDE) (Bounty: 12000 ONLY)
@@ -33,8 +32,7 @@ Requirements:
 ### Progress:
 ### This task is claimed by the community technical team and expected to be ready on Dec. 30th, 2020.
 
-
-
+****
 
 # Task 4:
 ## OC 2.0 underlying system security audit (Bounty: 30000 ONLY)
@@ -47,16 +45,12 @@ Requirements:
 ### Progress:
 ### Still recruiting. Application deadline: Dec. 30th, 2020.
 
-
-
+****
 
 ## We welcome any team (or individual) to send their well-designed product prototypes and UI styles to OC official mailbox for our preliminary review. Please also remember to leave the contact info, including phone number and the collection address of OC mainnet wallet (for bounty use).
 ### Official mailbox: admin@onlychain.pro
 
-
-
-
-
+****
 
 ## You will be blacklisted permanently for the following acts, including but not limited to,
 * 1.Plagiarize others’ results
