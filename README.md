@@ -13,8 +13,8 @@ This task is claimed by the community technical team with ongoing maintenance an
 
 # Task 2:
 ## Development of OC 2.0 Explorer (Bounty: 10000 ONLY)
-7.Equipped with nearly all basic functions of ETH Explorer 
-8.The excellent user interface will be given preference.
+* 1.Equipped with nearly all basic functions of ETH Explorer 
+* 2.The excellent user interface will be given preference.
 Progress:
 This task is claimed by the community technical team, still in the planning phase.
 
@@ -23,23 +23,23 @@ This task is claimed by the community technical team, still in the planning phas
 # Task 3:
 ## OC 2.0 contract developer tool (IDE) (Bounty: 12000 ONLY)
 Requirements:
-1.Having experience in C/S and B/S development. (Works required)
-2.Able to perform functions like one-click compiling, publishing and search based on the smart contract.
-3.Support the smart association and highlighting of code for IDE
-4.Support “one-click installation” for IDE
-5.The excellent user interface will be given preference.
+* 1.Having experience in C/S and B/S development. (Works required)
+* 2.Able to perform functions like one-click compiling, publishing and search based on the smart contract.
+* 3.Support the smart association and highlighting of code for IDE
+* 4.Support “one-click installation” for IDE
+* 5.The excellent user interface will be given preference.
 Progress:
 This task is claimed by the community technical team and expected to be ready on Dec. 30th, 2020.
 
 
 # Task 4:
 ## OC 2.0 underlying system security audit (Bounty: 30000 ONLY)
-1.RPC security audit
-2.P2P security audit
-3.Cryptographic algorithm security audit
-4.Security audit of smart contract virtual machine
-5.Security of account and transaction models
-6.Security audit of consensus mechanism
+* 1.RPC security audit
+* 2.P2P security audit
+* 3.Cryptographic algorithm security audit
+* 4.Security audit of smart contract virtual machine
+* 5.Security of account and transaction models
+* 6.Security audit of consensus mechanism
 Progress:
 Still recruiting. Application deadline: Dec. 30th, 2020.
 
@@ -50,7 +50,7 @@ Still recruiting. Application deadline: Dec. 30th, 2020.
 
 
 # You will be blacklisted permanently for the following acts, including but not limited to,
-## 1.Plagiarize others’ results
-## 2.Maliciously send irrelevant material 
-## 3.Failure to observe the regulations of OC open-source community.
-## 4.Attempt to embed malicious code into the code required for the task.
+* 1.Plagiarize others’ results
+* 2.Maliciously send irrelevant material 
+* 3.Failure to observe the regulations of OC open-source community.
+* 4.Attempt to embed malicious code into the code required for the task.
