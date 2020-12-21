@@ -1,12 +1,12 @@
 # Task 1:
 ## Development of OC 1.0 wallet (Bounty: 30000 ONLY)
 Requirements:
-1.At least 90% native app development.
-2.Developed with technologies like offline accounts creation and offline signature.
-3.At least triple protection for private key security.
-4.Equipped with basic functions of wallet.
-5.Equipped with functions like staking, voting, etc.
-6.The excellent and user-friendly interface will be given preference. 
+* 1.At least 90% native app development.
+* 2.Developed with technologies like offline accounts creation and offline signature.
+* 3.At least triple protection for private key security.
+* 4.Equipped with basic functions of wallet.
+* 5.Equipped with functions like staking, voting, etc.
+* 6.The excellent and user-friendly interface will be given preference. 
 Progress:
 This task is claimed by the community technical team with ongoing maintenance and updates.
 
