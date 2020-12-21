@@ -7,8 +7,9 @@ Requirements:
 * 4.Equipped with basic functions of wallet.
 * 5.Equipped with functions like staking, voting, etc.
 * 6.The excellent and user-friendly interface will be given preference. 
-Progress:
-This task is claimed by the community technical team with ongoing maintenance and updates.
+## Progress:
+### This task is claimed by the community technical team with ongoing maintenance and updates.
+
 
 
 
@@ -16,8 +17,9 @@ This task is claimed by the community technical team with ongoing maintenance an
 ## Development of OC 2.0 Explorer (Bounty: 10000 ONLY)
 * 1.Equipped with nearly all basic functions of ETH Explorer 
 * 2.The excellent user interface will be given preference.
-Progress:
-This task is claimed by the community technical team, still in the planning phase.
+## Progress:
+### This task is claimed by the community technical team, still in the planning phase.
+
 
 
 
@@ -29,8 +31,9 @@ Requirements:
 * 3.Support the smart association and highlighting of code for IDE
 * 4.Support “one-click installation” for IDE
 * 5.The excellent user interface will be given preference.
-Progress:
-This task is claimed by the community technical team and expected to be ready on Dec. 30th, 2020.
+## Progress:
+### This task is claimed by the community technical team and expected to be ready on Dec. 30th, 2020.
+
 
 
 
@@ -42,13 +45,18 @@ This task is claimed by the community technical team and expected to be ready on
 * 4.Security audit of smart contract virtual machine
 * 5.Security of account and transaction models
 * 6.Security audit of consensus mechanism
-Progress:
-Still recruiting. Application deadline: Dec. 30th, 2020.
+## Progress:
+### Still recruiting. Application deadline: Dec. 30th, 2020.
+
 
 
 
 ## We welcome any team (or individual) to send their well-designed product prototypes and UI styles to OC official mailbox for our preliminary review. Please also remember to leave the contact info, including phone number and the collection address of OC mainnet wallet (for bounty use).
 ### Official mailbox: admin@onlychain.pro
+
+
+
+
 
 
 ## You will be blacklisted permanently for the following acts, including but not limited to,
