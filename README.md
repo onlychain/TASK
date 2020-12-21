@@ -21,7 +21,7 @@ This task is claimed by the community technical team, still in the planning phas
 
 
 # Task 3:
-OC 2.0 contract developer tool (IDE) (Bounty: 12000 ONLY)
+## OC 2.0 contract developer tool (IDE) (Bounty: 12000 ONLY)
 Requirements:
 1.Having experience in C/S and B/S development. (Works required)
 2.Able to perform functions like one-click compiling, publishing and search based on the smart contract.
