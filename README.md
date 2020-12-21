@@ -10,7 +10,7 @@ Requirements:
 ### Progress:
 ### This task is claimed by the community technical team with ongoing maintenance and updates.
 
-### ——————————————————————————————————————————————————————————————————————————————————————————————
+### ****
 
 # Task 2:
 ## Development of OC 2.0 Explorer (Bounty: 10000 ONLY)
